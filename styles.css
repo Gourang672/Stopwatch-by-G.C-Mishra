@@ -1,0 +1,64 @@
+/* body style */
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   background-image: url("./vivid-blurred-colorful-background.jpg");
+}
+/* h1 style */
+#H1{
+    font-size: 4rem;
+   
+}
+/* container style */
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    border: 5px solid;
+    border-radius: 50px;
+    background-image: url("./inside.jpg");
+}
+/* time-display style */
+#time-display{
+    font-size: 5rem;
+    font-weight: bold; 
+    margin-bottom: 25px;
+}
+/* buttons style */
+#button-controls button{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 5px;
+    min-width: 125px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    transition: background-color 0.5s ease;
+}
+/* start button color */
+#startBtn{
+    background-color: rgb(17, 204, 0);
+}
+/* start button hover color */
+#startBtn:hover{
+    background-color: rgb(13, 153, 0);
+}
+/* stop button color */
+#stopBtn{
+    background-color: rgb(242, 51, 13);
+}
+/* start button hover color */
+#stopBtn:hover{
+    background-color: rgb(194, 41, 10);
+}
+/* reset button color */
+#resetBtn{
+    background-color: rgb(61, 168, 245);
+}
+/* reset button hover color */
+#resetBtn:hover{
+    background-color: rgb(13, 147, 242);
+}
