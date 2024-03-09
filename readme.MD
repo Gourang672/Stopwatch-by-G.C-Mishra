@@ -1,4 +1,4 @@
-Stopwatch by Gouranga Charan Mishra html , css and javascript.
+Stopwatch by Gouranga Charan Mishra made with html , css and javascript.
 
 GitHub:
 
